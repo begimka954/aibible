@@ -1,0 +1,12 @@
+
+weather,time,crew,materials,backyard_only,perry,doof,candace,project
+Sunny,8,"Isabella;Perry","Wood;Electronics;Gadgets",True,On a mission,None,Chill,Backyard Roller Coaster 2.0
+Windy,5,"Isabella","Electronics",False,Unknown,None,Suspicious,Skywriting Drone Swarm
+Cloudy,3,"Baljeet;Perry","Electronics;Gadgets",True,On a mission,Shrink-inator,Chill,Doof-Inator Disruptor Shield
+Sunny,10,"Buford","Metal;Electronics",False,At home,Magnify-inator,Determined to Bust,Suburban Space Elevator
+Rainy,4,"Isabella;Candace","Rubber Bands;Electronics",True,Unknown,None,Suspicious,Ocean-Wave Surf Simulator
+Snowy,2,"Perry","Paint;Wood",True,On a mission,Erase-inator,Chill,DIY Snow-Globe City
+Sunny,7,"Baljeet;Buford","Jet Fuel (uh-oh);Metal",False,At home,Attractor-inator,Chill,Rainbow-Powered Jetpacks
+Cloudy,9,"Isabella;Baljeet","Ice Cream;Wood;Gadgets",True,Unknown,None,Chill,Giant Rube Goldberg Ice-Cream Machine
+Sunny,11,"Perry;Buford","Metal",False,On a mission,None,Suspicious,Underground Hyper-Tunnel
+Windy,6,"Isabella;Baljeet","Electronics;Gadgets",False,At home,Deja Vu-inator,Chill,Time-Traveling Sandwich Maker
